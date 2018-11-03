@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ps",
+  "name": "Project SAO",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YeetusDeletus"],
+  "credits": "xd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
