@@ -11,6 +11,6 @@ public class BlockInit {
 	
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
-	public static final Block Block_Dragon_Nest = new BlockBase("Block_Dragon_Nest", Material.SNOW);
+	public static final Block Block_Dragon_Nest = new BlockBase("block_dragon_nest", Material.SNOW);
 
 }

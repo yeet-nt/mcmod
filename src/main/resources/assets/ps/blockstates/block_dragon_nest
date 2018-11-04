@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "ps:block_dragon_nest" }
+    }
+}
